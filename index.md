@@ -11,7 +11,7 @@ categories: none
 </header>
 
 <section id="downloads" class="clearfix">
-	<a href="https://github.com/Flowpack" id="view-on-github" class="button"><span>View on GitHub</span></a>
+	<a href="https://github.com/Flowpack" id="view-on-github" class="button"><span>All repositories</span></a>
 </section>
 
 <hr>
@@ -23,19 +23,24 @@ categories: none
 	<p>This is an incubator and repository for high quality TYPO3 Flow packages that proved useful during development of Flow projects.</p>
 
 	<h3>
-	<a name="packages" class="anchor" href="#packages"><span class="octicon octicon-link"></span></a>Packages</h3>
+	<a name="packages" class="anchor" href="#packages"><span class="octicon octicon-link"></span></a>Our packages</h3>
 
-	<h4>
+	<h4 class="package">
 	<a name="single-sign-on" class="anchor" href="#single-sign-on"><span class="octicon octicon-link"></span></a>Single Sign-on</h4>
 
-	<p>With the <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Server/">Flowpack.SingleSignOn.Server</a> and <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Client">Flowpack.SingleSignOn.Client</a> packages we offer a full featured single sign-on solution between multiple TYPO3 Flow applications.</p>
+	<p>With the <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Server/">Flowpack.SingleSignOn.Server</a> and <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Client">Flowpack.SingleSignOn.Client</a> packages we offer a full featured single sign-on solution for TYPO3 Flow applications.</p>
 
-	<p>Read the <a href="http://flowpack-single-sign-on.readthedocs.org/en/latest/">Flowpack Single sign-on documentation</a> to get started.</p>
+	<ul>
+		<li><a href="http://flowpack-single-sign-on.readthedocs.org/en/latest/">Documentation</a></li>
+		<li>Repositories: <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Server/">Server package</a>, <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Client/">Client package</a>, <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.DemoServer-Distribution">Demo Server distribution</a>, <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.DemoInstance-Distribution">Demo Instance distribution</a></li>
+	</ul>
 
-	<h4>
+	<h4 class="package">
 	<a name="behat" class="anchor" href="#behat"><span class="octicon octicon-link"></span></a>Behat</h4>
 
 	<p>The <a href="http://github.com/Flowpack/Flowpack.Behat/">Flowpack.Behat</a> package provides integration classes for using <a href="http://behat.org/">Behat</a> BDD tests in TYPO3 Flow applications.</p>
+
+	<hr>
 
 	<h3>
 	<a name="contributors" class="anchor" href="#contributors"><span class="octicon octicon-link"></span></a>Contributors</h3>
@@ -45,7 +50,7 @@ categories: none
 	<h3>
 	<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
-	<p>Commercial support of our packages is available. Please use the issue tracker for questions to the community.</p>
+	<p>Commercial support of our packages is available (please get in touch with us). Use the Github issue tracker in the respective repositories for questions to the community.</p>
 
 	<h3>
 	<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h3>
