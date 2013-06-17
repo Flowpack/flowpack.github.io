@@ -30,6 +30,8 @@ categories: none
 
 	<p>With the <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Server/">Flowpack.SingleSignOn.Server</a> and <a href="http://github.com/Flowpack/Flowpack.SingleSignOn.Client">Flowpack.SingleSignOn.Client</a> packages we offer a full featured single sign-on solution between multiple TYPO3 Flow applications.</p>
 
+	<p>Read the <a href="http://flowpack-single-sign-on.readthedocs.org/en/latest/">Flowpack Single sign-on documentation</a> to get started.</p>
+
 	<h4>
 	<a name="behat" class="anchor" href="#behat"><span class="octicon octicon-link"></span></a>Behat</h4>
 
