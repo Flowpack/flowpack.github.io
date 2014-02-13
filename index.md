@@ -1,7 +1,7 @@
 ---
 layout: tactile
 title: Welcome
-description: Flowpack - High quality TYPO3 Flow packages
+description: Flowpack - High quality TYPO3 Flow and Neos packages
 categories: none
 ---
 
@@ -39,6 +39,11 @@ categories: none
 	<a name="behat" class="anchor" href="#behat"><span class="octicon octicon-link"></span></a>Behat</h4>
 
 	<p>The <a href="http://github.com/Flowpack/Flowpack.Behat/">Flowpack.Behat</a> package provides integration classes for using <a href="http://behat.org/">Behat</a> BDD tests in TYPO3 Flow applications.</p>
+
+	<h4 class="package">
+	<a name="elasticsearch" class="anchor" href="#elasticsearch"><span class="octicon octicon-link"></span></a>ElasticSearch</h4>
+
+	<p>With the <a href="https://github.com/Flowpack/Flowpack.ElasticSearch">Flowpack.ElasticSearch</a> and <a href="https://github.com/Flowpack/Flowpack.ElasticSearch.ContentRepositoryAdaptor">Flowpack.ElasticSearch.ContentRepositoryAdaptor</a> packages we offer integration with ElasticSearch for TYPO3 Flow applications as well as TYPO3 Neos.</p>
 
 	<hr>
 
